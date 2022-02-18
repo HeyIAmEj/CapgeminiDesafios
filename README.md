@@ -205,6 +205,7 @@ Sendo:
     - Este argumento -Detalhes foi adicionado devido a um problema no documento disponibilizado para realização dos desafios. (Detalhes)
 
 ## Exemplos de Uso
+
 ## Utilizando o comando `java` no terminal ##
 - #### Executa todos os Desafios propostos.
   >java Capgemini
