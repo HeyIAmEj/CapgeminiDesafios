@@ -197,19 +197,25 @@ Sendo:
   >java Capgemini
 - #### Executa o Desafio 1
   >java Desafio1
+  
   ou
+
   >java Capgemini Desafio1
 - #### Executa o Desafio 1 com entrada definida
   >java Capgemini Desafio1 6
 - #### Executa o Desafio 2
   >java Desafio2
+
   ou
+
   >java Capgemini Desafio2
 - #### Executa o Desafio 2 com entrada definida
   > java Capgemini Desafio2 Ya3
 - #### Executa o Desafio 3
   >java Desafio3
+
   ou
+
   >java Capgemini Desafio3
 - #### Executa o Desafio 3 com entrada definida
   >java Capgemini Desafio3 ovo
