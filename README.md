@@ -23,11 +23,11 @@ Este repositório é destinado aos Desafios de Programação da Academia Técnic
       ******
     
   ### Opções ###
-  [Vizualizar código-fonte](README.md#Executa o Desafio 1)
+  [Vizualizar código-fonte](https://github.com/HeyIAmEj/CapgeminiDesafios/blob/master/Desafio1.java)
 
-  [Exemplo de Execução (Desafio 1)](README.md#Desafio 1)
+  [Exemplo de Execução (Desafio 1)](https://github.com/HeyIAmEj/CapgeminiDesafios#desafio-1)
 
-  [Comando de Execução (Desafio 1)](README.md#Executa o Desafio 1)
+  [Comando de Execução (Desafio 1)](https://github.com/HeyIAmEj/CapgeminiDesafios#executa-o-desafio-1)
 
 
 - ## Proposta do Desafio 2 ##
@@ -54,11 +54,11 @@ Este repositório é destinado aos Desafios de Programação da Academia Técnic
   `3`
 
   ### Opções ###
-  [Vizualizar código-fonte](README.md#Executa o Desafio 2)
+  [Vizualizar código-fonte](https://github.com/HeyIAmEj/CapgeminiDesafios/blob/master/Desafio2.java)
 
-  [Exemplo de Execução (Desafio 2)](README.md#Desafio 2)
+  [Exemplo de Execução (Desafio 2)](https://github.com/HeyIAmEj/CapgeminiDesafios#desafio-2)
 
-  [Comando de Execução (Desafio 2)](README.md#Executa o Desafio 2)
+  [Comando de Execução (Desafio 2)](https://github.com/HeyIAmEj/CapgeminiDesafios#executa-o-desafio-2)
 
 
 - ## Proposta do Desafio 3 ##
@@ -81,11 +81,11 @@ Este repositório é destinado aos Desafios de Programação da Academia Técnic
   `3
 `
   ### Opções ###
-  [Vizualizar código-fonte](README.md#Executa o Desafio 3)
+  [Vizualizar código-fonte](https://github.com/HeyIAmEj/CapgeminiDesafios/blob/master/Desafio3.java)
 
-  [Exemplo de Execução (Desafio 3)](README.md#Desafio 3)
+  [Exemplo de Execução (Desafio 3)](https://github.com/HeyIAmEj/CapgeminiDesafios#desafio-3)
 
-  [Comando de Execução (Desafio 3)](README.md#Executa o Desafio 3)
+  [Comando de Execução (Desafio 3)](https://github.com/HeyIAmEj/CapgeminiDesafios#executa-o-desafio-3)
 
 
 ## Explicações/Algoritmos
