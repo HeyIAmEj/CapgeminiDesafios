@@ -23,7 +23,7 @@ Este repositório é destinado aos Desafios de Programação da Academia Técnic
       ******
     
   ### Opções ###
-  [Vizualizar código-fonte](https://github.com/HeyIAmEj/CapgeminiDesafios/blob/master/Desafio1.java)
+  [Visualizar código-fonte](https://github.com/HeyIAmEj/CapgeminiDesafios/blob/master/Desafio1.java)
 
   [Exemplo de Execução (Desafio 1)](https://github.com/HeyIAmEj/CapgeminiDesafios#desafio-1)
 
@@ -54,7 +54,7 @@ Este repositório é destinado aos Desafios de Programação da Academia Técnic
   `3`
 
   ### Opções ###
-  [Vizualizar código-fonte](https://github.com/HeyIAmEj/CapgeminiDesafios/blob/master/Desafio2.java)
+  [Visualizar código-fonte](https://github.com/HeyIAmEj/CapgeminiDesafios/blob/master/Desafio2.java)
 
   [Exemplo de Execução (Desafio 2)](https://github.com/HeyIAmEj/CapgeminiDesafios#desafio-2)
 
@@ -81,7 +81,7 @@ Este repositório é destinado aos Desafios de Programação da Academia Técnic
   `3
 `
   ### Opções ###
-  [Vizualizar código-fonte](https://github.com/HeyIAmEj/CapgeminiDesafios/blob/master/Desafio3.java)
+  [Visualizar código-fonte](https://github.com/HeyIAmEj/CapgeminiDesafios/blob/master/Desafio3.java)
 
   [Exemplo de Execução (Desafio 3)](https://github.com/HeyIAmEj/CapgeminiDesafios#desafio-3)
 
