@@ -157,13 +157,26 @@ A saída informa se a senha está **forte** ou **fraca**, e informa todos os out
 
 
 ## Instalação
-Para utilizar este programa, é necessário ter o Java instalado.
+Para utilizar este programa, é necessário ter o **Java** instalado.
 
-// Git clone
+- **Git Clone**
+  - Abra o Git Bash
+  - Execute o comando `git clone https://github.com/HeyIAmEj/CapgeminiDesafios.git` em algum diretório.
+  - Execute o comando `java Capgemini` no terminal
+  
+    ou
+  
+  - Execute o arquivo `Capgemini.bat`
+  
 
-// Download
+- [**Baixar pelo Github**](https://github.com/HeyIAmEj/CapgeminiDesafios/archive/refs/heads/master.zip)
+  - Faça o download do projeto e extraia para algum diretório de sua preferência;
+  - Abra o Prompt de Comando ou Windows Powershell no diretório que você extraiu os arquivos;
+  - Execute o comando `java Capgemini` no terminal
 
+    ou
 
+  - Execute o arquivo `Capgemini.bat`
 
 ## Sintaxe para Execução
 
