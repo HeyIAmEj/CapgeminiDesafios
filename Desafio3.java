@@ -56,8 +56,6 @@ public class Desafio3 {
     }
 
     public void start() {
-        //String palavra = "ifailuhkqq";
-        //String palavra = "ovo";
         ArrayList<String> anagramasParesWithout = new ArrayList();
         ArrayList<String> anagramasParesWith = new ArrayList();
 
@@ -77,10 +75,10 @@ public class Desafio3 {
             int conteudo2Index = 0;
             for (String conteudo2 : combinacoesParaTestar) {
                 if (isAnagram(conteudo1, conteudo2) && (conteudo1Index != conteudo2Index)){
-                    //System.out.println(String.format("Testando [%d] com [%d] | [%s] com [%s]", conteudo1Index, conteudo2Index, conteudo1, conteudo2));
-
                     String detalhes1 = String.format("[%s, %s]", conteudo1, conteudo2);
                     String detalhes2 = String.format("[%s, %s]", conteudo2, conteudo1);
+
+                    // ISSUE REPORTADO POR EMAIL
 
                     //Não conta repetidos...
                     if(!(anagramasParesWithout.contains(detalhes1) || anagramasParesWithout.contains(detalhes2))){
@@ -100,6 +98,7 @@ public class Desafio3 {
         if(extra.equals("-detalhes")) {
             System.out.println("Detalhes para anagramas sem repetição");
             System.out.println("Quantidade de Anagramas Pares sem repetição: " + anagramasParesWithout.size());
+
             //Exibir a lista sem repetição
             for (String item : anagramasParesWithout) System.out.println(item);
 
@@ -110,6 +109,9 @@ public class Desafio3 {
             //Exibir a lista com repetição
             for (String item : anagramasParesWith) System.out.println(item);
         }else{
+
+            // Levando em consideração o ISSUE #1, o retorno de saída deve exibir os Anagramas Pares sem repetição.
+
             System.out.println("Anagramas Pares: " + anagramasParesWithout.size());
         }
     }
