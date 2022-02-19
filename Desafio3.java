@@ -3,6 +3,7 @@ import java.util.*;
 public class Desafio3 {
     String palavra;
     String extra;
+    int qtdTest;
 
     public void setPalavra(String palavra) {
         this.palavra = palavra;
@@ -12,7 +13,7 @@ public class Desafio3 {
         this.extra = extra.toLowerCase();
     }
 
-    public static boolean isAnagram(String s1, String s2) {
+    public boolean isAnagram(String s1, String s2) {
         //se as duas strings não tem o mesmo tamanho, não é anagrama
         if ( s1.length() != s2.length() ) {
             return false;
@@ -103,8 +104,10 @@ public class Desafio3 {
         }else{
 
             // Levando em consideração o ISSUE #1, o retorno de saída deve exibir os Anagramas Pares sem repetição.
-
             System.out.println("Anagramas Pares: " + anagramasParesWithout.size());
+
+            // Seta quantidade de anagramas pares, para ser testado no teste unitário
+            qtdTest = anagramasParesWithout.size();
         }
     }
 
