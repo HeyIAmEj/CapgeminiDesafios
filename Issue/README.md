@@ -3,6 +3,8 @@
 ![Screenshot Issue Report](https://github.com/HeyIAmEj/CapgeminiDesafios/blob/master/Issue/image.jpg)
 
 
+## Motivo ##
+
 #### Ao realizar o Desafio 3, notei que havia um erro na saída dos exemplos informados. ####
 
 

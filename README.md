@@ -202,7 +202,7 @@ Sendo:
 - -Detalhes (*Opcional*) (Apenas Desafio3)
     - Será dado informações adicionais sobre o Desafio3
     - default: empty // Não será exibido informações adicionais.
-    - Este argumento -Detalhes foi adicionado devido a um problema no documento disponibilizado para realização dos desafios. [Detalhes](https://github.com/HeyIAmEj/CapgeminiDesafios/tree/master/Issue)
+    - Este argumento -Detalhes foi adicionado devido a um problema no documento disponibilizado para realização dos desafios. [Detalhes](https://github.com/HeyIAmEj/CapgeminiDesafios/tree/master/Issue#Motivo)
 
 ## Exemplos de Uso
 
