@@ -1,6 +1,6 @@
 # Academia Técnica Capgemini 2022
 
-Este repositório é destinado aos Desafios de Programação da Academia Técnica Capgemini.s
+Este repositório é destinado aos Desafios de Programação da Academia Técnica Capgemini.
 
 # Desafios de Programação
 
