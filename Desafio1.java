@@ -4,18 +4,14 @@ import java.util.Scanner;
 public class Desafio1 {
     int quantidade;
 
-    public int getQuantidade() {
-        return quantidade;
-    }
-
     public void setQuantidade(int quantidade) {
         this.quantidade = quantidade;
     }
 
     public static String multiplicaChar(char caractere, int qtd) {
-        String strRetorno = "";
-        for (int x = 0; x < qtd; x++) strRetorno = strRetorno + caractere;
-        return strRetorno;
+        StringBuilder strRetorno = new StringBuilder();
+        for (int x = 0; x < qtd; x++) strRetorno.append(caractere);
+        return strRetorno.toString();
     }
 
     public void prepare() {
@@ -37,17 +33,15 @@ public class Desafio1 {
     public void prepare(String qtd) {
         try{
             setQuantidade(Integer.parseInt(qtd));
-        } catch (InputMismatchException e) {
-            System.err.println("O tamanho digitado deve ser um número natural!");
-        } catch (NumberFormatException e) {
+        } catch (InputMismatchException | NumberFormatException e) {
             System.err.println("O tamanho digitado deve ser um número natural!");
         }
 
     }
 
     public void start() {
-            String ast = "";
-            String esp = "";
+            String ast;
+            String esp;
 
             for (int i = 1; i <= quantidade; i++) {
                 esp = multiplicaChar(' ', quantidade - i);

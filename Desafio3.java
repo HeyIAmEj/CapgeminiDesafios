@@ -4,16 +4,8 @@ public class Desafio3 {
     String palavra;
     String extra;
 
-    public String getPalavra() {
-        return palavra;
-    }
-
     public void setPalavra(String palavra) {
         this.palavra = palavra;
-    }
-
-    public String getExtra() {
-        return extra;
     }
 
     public void setExtra(String extra) {
@@ -25,7 +17,7 @@ public class Desafio3 {
         if ( s1.length() != s2.length() ) {
             return false;
         }
-        //tranfroma em arrays para poder ordenar
+        //transfroma em arrays para poder ordenar
         char[] c1 = s1.toCharArray();
         char[] c2 = s2.toCharArray();
         //ordena para garantir a comparação simplificada

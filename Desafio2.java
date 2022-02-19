@@ -1,12 +1,7 @@
-import java.util.List;
 import java.util.Scanner;
 
 public class Desafio2 {
     String senha;
-
-    public String getSenha() {
-        return senha;
-    }
 
     public void setSenha(String senha) {
         this.senha = senha;
@@ -27,7 +22,7 @@ public class Desafio2 {
         // Verifica se tem tamanho mínimo
         int tamanho = senha.length();
         int tamanhoMin = 6;
-        boolean hasMinLenght = (tamanho >= tamanhoMin) ? true : false;
+        boolean hasMinLenght = tamanho >= tamanhoMin;
 
         // Verifica se os caracteres atendem requisitos
         boolean hasOneDigit = false;
@@ -52,7 +47,7 @@ public class Desafio2 {
             System.out.println("Senha fraca!");
 
             // Se não tiver tamanho mínimo, mostra quantos caracteres faltam
-            if (!hasMinLenght) System.out.println(String.format("Adicione %s caracteres", tamanhoMin - tamanho));
+            if (!hasMinLenght) System.out.printf("Adicione %s caracteres%n", tamanhoMin - tamanho);
             // Se não tiver um dígito, mostra mensagem para adicionar.
             if (!hasOneDigit) System.out.println("Adicione ao menos 1 dígito númerico!");
             // Se não tiver uma letra minúscula, mostra mensagem para adicionar.
