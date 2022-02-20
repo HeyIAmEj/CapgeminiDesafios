@@ -1,6 +1,7 @@
 # Academia Técnica Capgemini 2022
 
 Este repositório é destinado aos Desafios de Programação da Academia Técnica Capgemini.
+
 Todos os desafios foram realizados utilizando conceitos de Programação Orientada a Objetos, a fim de facilitar a construção e implementação do código.
 
 ### Tecnologias Utilizadas ###
