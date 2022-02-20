@@ -2,6 +2,13 @@
 
 Este repositório é destinado aos Desafios de Programação da Academia Técnica Capgemini.
 
+# Sumário
+- [Desafios de Programação](https://github.com/HeyIAmEj/CapgeminiDesafios/blob/master/README.md#desafios-de-programa%C3%A7%C3%A3o)
+- [Explicações/Algoritmos](https://github.com/HeyIAmEj/CapgeminiDesafios/blob/master/README.md#explica%C3%A7%C3%B5esalgoritmos)
+- [Instalação](https://github.com/HeyIAmEj/CapgeminiDesafios/blob/master/README.md#instala%C3%A7%C3%A3o)
+- [Sintaxe para Execução](https://github.com/HeyIAmEj/CapgeminiDesafios/blob/master/README.md#sintaxe-para-execu%C3%A7%C3%A3o)
+- [Exemplos de Uso](https://github.com/HeyIAmEj/CapgeminiDesafios/blob/master/README.md#exemplos-de-uso) 
+
 # Desafios de Programação
 
 - ## Proposta do Desafio 1 ##
@@ -88,7 +95,7 @@ Este repositório é destinado aos Desafios de Programação da Academia Técnic
   [Comando de Execução (Desafio 3)](https://github.com/HeyIAmEj/CapgeminiDesafios#executa-o-desafio-3)
 
 
-## Explicações/Algoritmos
+# Explicações/Algoritmos
 - ## Desafio 1
   Levando em consideração a entrada `n = 3`:
 
@@ -156,7 +163,7 @@ A saída informa se a senha está **forte** ou **fraca**, e informa todos os out
       4
 
 
-## Instalação
+# Instalação
 Para utilizar este programa, é necessário ter o **Java** instalado.
 
 - **Git Clone**
@@ -178,7 +185,7 @@ Para utilizar este programa, é necessário ter o **Java** instalado.
 
   - Execute o arquivo `Capgemini.bat`
 
-## Sintaxe para Execução
+# Sintaxe para Execução
 
 Para utilizar o programa usando o Java utilize no terminal o comando desejado, com a sintaxe abaixo:
 
@@ -204,7 +211,7 @@ Sendo:
     - default: empty // Não será exibido informações adicionais.
     - Este argumento -Detalhes foi adicionado devido a um problema no documento disponibilizado para realização dos desafios. [Detalhes](https://github.com/HeyIAmEj/CapgeminiDesafios/tree/master/Issue#Motivo)
 
-## Exemplos de Uso
+# Exemplos de Uso
 
 ## Utilizando o comando `java` no terminal ##
 - #### Executa todos os Desafios propostos.
