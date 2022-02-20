@@ -2,6 +2,12 @@
 
 Este repositório é destinado aos Desafios de Programação da Academia Técnica Capgemini.
 
+### Tecnologias Utilizadas ###
+ - Java
+ - Intellij Idea 
+ - JUnit
+ - Git
+
 # Sumário
 - [Desafios de Programação](https://github.com/HeyIAmEj/CapgeminiDesafios/blob/master/README.md#desafios-de-programa%C3%A7%C3%A3o)
 - [Explicações/Algoritmos](https://github.com/HeyIAmEj/CapgeminiDesafios/blob/master/README.md#explica%C3%A7%C3%B5esalgoritmos)
